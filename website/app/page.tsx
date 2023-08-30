@@ -22,9 +22,9 @@ export default function Home() {
             by the person who encrypted the text. But...  not always
         </article>
         <article className={styles.text2}>
-            Ap anpgcqu eyar tteowheonyyndttomi  riym eetpfiriyco  tpohnp  tu.tw ihri necytn ehiu sdt nrp  omltx nonwfr
-            hc osnti n a a niaei' l enn.FrDcytn o ototnne oseii nomto o a nygtb h esnwoecytdtetx.Bt. o lasCes
-            ritneeoctnaei  mid  awcic sdagoepgusf d ccfanunleyer  rehe .nay
+            Ap anpgcqu eyar tteowheonyydttomi  riym eesi ot coangbhenocttt.t  a ihri necytn ehiu sdt nrp  omltx nonwfr
+            hc osnti n a niaei' l enn.FrDcyto o ototnne pcfcifrainwihyucnol e ytepro h nrpe h et u..ntawyCes
+            ritneeoctnaei  mid  awic sdagoepnusf deinmoh   yt  sweydexB.ols
         </article>
 
         <button type={"button"} className={styles.glow}>Ciphers</button>

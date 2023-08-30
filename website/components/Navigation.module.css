@@ -16,8 +16,7 @@
     color: #39FF14;
     overflow: hidden;
     white-space: nowrap;
-    animation:
-            typing 2s steps(20, end) forwards infinite;
+    animation: typing 2s steps(20, end) forwards infinite;
     font-size: 2.3rem;
     width: 0;
     text-transform: capitalize;

@@ -13,6 +13,7 @@
   text-transform: capitalize;
   font-weight: bolder;
   margin-bottom: 30%;
+  z-index: 1000;
 }
 
 .images {
@@ -64,10 +65,10 @@
 .text {
   position: absolute;
   font-weight: bold;
-  color: #39FF14;
-  width: 35%;
+  color: #fff;
+  width: 33%;
   bottom: 10%;
-  left: 4%;
+  left: 64%;
   font-size: 1.5em;
 }
 
@@ -76,16 +77,16 @@
   font-weight: bold;
   color: #39FF14;
   width: 35%;
-  bottom: 10%;
-  left: 60%;
+  bottom: 8%;
+  left: 3%;
   font-size: 1.5em;
 }
 
 @keyframes slide {
-  0% {left: 8%}
-  30% {left: 47%}
-  70% {left: 50%}
-  100% {left: 90%}
+  0% {left: 8%;background-color: #39FF14;}
+  30% {left: 47%;backgroun--color: #39FF14}
+  70% {left: 47%; background-color: white;}
+  100% {left: 90%;background-color: white}
 }
 
 .explore {
@@ -108,7 +109,7 @@
   z-index: 10;
   border-radius: 10px;
   bottom: 15%;
-  right: 45%;
+  right: 42.5%;
   font-size: 1.5em;
   font-weight: bold;
 }
