@@ -1,4 +1,3 @@
 g# TheCipher
 
-Website to explain different types of ciphers
-Also with enryption and decryption possibilities
+Online application with the goal of visually explaining different kind of cyphers used in modern and historic cryptography.
